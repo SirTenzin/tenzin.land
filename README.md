@@ -1,3 +1,3 @@
 # tenzin.land
-<img transparent src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" align="right" ></img>
+<img src="https://www.seekpng.com/png/detail/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" align="top" ></img>
 Simple site made with React and React-DOM
